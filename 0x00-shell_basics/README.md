@@ -8,3 +8,4 @@ THE SCRIPTS AND THEIR FUNCTIONS:
 6. 6-firstdirectory: create a script that creates a directory.
 7. 7-movethatfile: Move the file betty from /tmp/ to /tmp/my_first_directory.
 8. 8-firstdelete: Delete the file betty
+9. 9-firstdirdeletion: Delete the directory my_first_directory that is in the /tmp directory.
