@@ -4,3 +4,4 @@ THE SCRIPTS AND THEIR FUNCTIONS:
 2. 2-bring_me_home: changes the working directory to the user's home directory.
 3. 3-listfiles: display current directory contents in a long format.
 4. 4-listmorefiles: display current directory contents, including hidden files.
+5. 5-listfilesdigitonly: display current directory contents: Long format with user and group IDs displayed numerically and hidden files (starting with .)
