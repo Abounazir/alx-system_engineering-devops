@@ -7,3 +7,4 @@ THE SCRIPTS AND THEIR FUNCTIONS:
 5. 5-listfilesdigitonly: display current directory contents: Long format with user and group IDs displayed numerically and hidden files (starting with .)
 6. 6-firstdirectory: create a script that creates a directory.
 7. 7-movethatfile: Move the file betty from /tmp/ to /tmp/my_first_directory.
+8. 8-firstdelete: Delete the file betty
